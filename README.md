@@ -44,9 +44,9 @@ npm i mongoose
 
 <a href="https://resimlink.com/NWRpy" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/NWRpy.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-<a href="https://resimlink.com/i8mxudyA" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/i8mxudyA.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://imgyukle.com/f/2023/03/22/Qp4noH.png" title="ResimLink - Resim Yükle"><img src="https://imgyukle.com/f/2023/03/22/Qp4noH.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-<a href="https://resimlink.com/rVy1A" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/rVy1A.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://resimlink.com/rVy1A" title="ResimLink - Resim Yükle"><img src="https://imgyukle.com/f/2023/03/22/Qp4QK1.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
 <a href="https://resimlink.com/fUw7R6rpSe1d" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/fUw7R6rpSe1d.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
@@ -58,10 +58,9 @@ npm i mongoose
 
 <a href="https://resimlink.com/CF6aP9oB2" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/CF6aP9oB2.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-<a href="https://resimlink.com/l9Vi5aMJr" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/l9Vi5aMJr.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://resmim.net/"><img src="https://resmim.net/cdn/2023/03/22/2TyXo.png" alt="resim yükle" border="0" /></a>
 
 <a href="https://resimlink.com/5_tImsAdM" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/5_tImsAdM.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-<a href="https://resimlink.com/snFHykS6Br" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/snFHykS6Br.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-
+<a href="https://resmim.net/"><img src="https://resmim.net/cdn/2023/03/22/2T0yW.png" alt="resim yükle" border="0" /></a>
 And our database connection is complete.
