@@ -17,7 +17,7 @@ npm i express
 3- We add our startup script to our package.json file
 ```shell
 "scripts": {
-  "serve": "node server.js"
+  "serve": "node Index.js"
 }
 ```
 
@@ -28,7 +28,7 @@ npm i nodemon -D
 and then we add our script to our package.json file
 ```shell
 "scripts": {
-  "dev": "nodemon server.js"
+  "dev": "nodemon Index.js"
 }
 ```
 
